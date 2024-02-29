@@ -1,0 +1,11 @@
+{
+	"UseColor": true,
+	"Symbols": ["#"],
+	"SwitchSymbols": [false, 1],
+	"SymbolsLength": 10,
+	"LinesAmount": 1,
+	"Distance": 16,
+	"Speed": 1,
+	"ColorInterval": 6,
+	"FPS": 20
+}
